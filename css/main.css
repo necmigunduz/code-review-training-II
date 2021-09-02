@@ -417,6 +417,10 @@ textarea {
     brightness(92%) contrast(82%);
 }
 
+button {
+  margin-left: 250px;
+}
+
 @media all and (min-width: 720px) {
   .top-social {
     flex-direction: column;
@@ -470,7 +474,7 @@ textarea {
     border: 1px solid #d2d5db;
   }
 
-  #logo {
+  .logo {
     font-size: 24px;
   }
 
